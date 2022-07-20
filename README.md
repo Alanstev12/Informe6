@@ -1,7 +1,9 @@
 # Informe6
 
 CAPITULO 11 EJERCICIOS 2-16
+
 SECCIÓN 11–1 La forma de onda sinusoidal
+
 2. Calcule el periodo de cada uno de los siguientes valores de frecuencia:
 
 ![image](https://user-images.githubusercontent.com/105374427/179888226-728fa894-432f-4c2c-b867-501626a238fd.png)
@@ -14,12 +16,14 @@ SECCIÓN 11–1 La forma de onda sinusoidal
 
 
 SECCIÓN 11–2 Fuentes de voltaje sinusoidal
+
 6. Cierto generador de cuatro polos gira a 3600 rpm. ¿Cuál es la frecuencia del voltaje que produce?
 
 ![image](https://user-images.githubusercontent.com/105374427/179888273-d7702552-069f-4c8f-8b83-bed41b696fd1.png)
 
 
 SECCIÓN 11–3 Valores sinusoidales de voltaje y corriente
+
 8. El valor pico de una onda seno es de 12 V. Determine los siguientes valores: 
 
 ![image](https://user-images.githubusercontent.com/105374427/179888302-f63db94e-2689-4e74-95d2-d51722aa8a3d.png)
@@ -34,6 +38,7 @@ SECCIÓN 11–3 Valores sinusoidales de voltaje y corriente
 
 
 SECCIÓN 11–4 Medición angular de una onda seno
+
 12. Cambie los siguientes valores angulares de radianes a grados:
 
 ![image](https://user-images.githubusercontent.com/105374427/179888397-9c8f5860-e34d-4fe4-bc5b-a8eb45a8d0fb.png)
@@ -45,6 +50,7 @@ SECCIÓN 11–4 Medición angular de una onda seno
 
 
 SECCIÓN 11–5 La fórmula de la onda seno
+
 16. Cierta onda seno tiene un cruce por cero hacia positivo en 0° y valor rms de 20 V. Calcule su valor instantáneo en cada uno de los siguientes ángulos:
 
 ![image](https://user-images.githubusercontent.com/105374427/179888464-c3869f25-1d69-4375-95fb-f8488829222e.png)
