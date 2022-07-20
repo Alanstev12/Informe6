@@ -227,17 +227,8 @@ El periodo de una onda cuadrada es de 40 ms
 
 ![image](https://user-images.githubusercontent.com/105374427/179890146-e2424db2-91b4-4453-864c-e0b684ac0b60.png)
 
-![image](https://user-images.githubusercontent.com/105374427/179890176-a267a0fc-742d-4aa6-bbf6-6656153ffeca.png)
-
-![image](https://user-images.githubusercontent.com/105374427/179890184-4965a5d7-c6a9-4eab-b9e8-3993e62238e0.png)
-
-![image](https://user-images.githubusercontent.com/105374427/179890190-7ed5d0aa-d22c-473b-9afa-752f6e794cdd.png)
-
-![image](https://user-images.githubusercontent.com/105374427/179890195-54e23f1a-cc0f-4013-a57c-0a1b7623cb8f.png)
-
-![image](https://user-images.githubusercontent.com/105374427/179890200-5e70943b-d8f6-4789-a10a-6281e40d5a35.png)
-
-![image](https://user-images.githubusercontent.com/105374427/179890214-64f9937c-f227-4d91-8a13-1ccedd14c862.png)
+![image](https://user-images.githubusercontent.com/105374427/179890667-9d3a00c5-e692-44a6-b147-b36671b44838.png)
+![image](https://user-images.githubusercontent.com/105374427/179890690-e320291c-770e-44a7-8b76-65daa5c7b9f9.png)
 
 
 24. La carga total guardada por los capacitores en serie de la figura 12-70 es de 10 mC. Determine el voltaje entre las terminales de cada capacitor.
