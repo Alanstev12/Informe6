@@ -220,7 +220,8 @@ El periodo de una onda cuadrada es de 40 ms
 
 20. Cinco capacitores de 1000 pF están en serie. ¿Cuál es la capacitancia total?
 
-![image](https://user-images.githubusercontent.com/105374427/179890140-93dfccc6-97c8-4a59-a555-214a20170c68.png)
+ ![image](https://user-images.githubusercontent.com/105374427/179890823-ef529624-c328-4c4b-aa9e-be44862f9dd9.png)
+
 
 
 22. Para cada circuito de la figura 12-69, determine el voltaje entre las terminales de cada capacitor.
