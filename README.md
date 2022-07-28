@@ -1,5 +1,41 @@
 # Informe6
 
+MARCO TEORICO 
+
+
+
+
+
+
+
+
+
+![17](https://user-images.githubusercontent.com/105374427/181636378-4710fc49-4291-47ad-ba8b-322037060c17.png)81636375-28270bf2-6a62-439c-a02c-fa37fab755f7.png)
+
+![1](https://user-images.githubusercontent.com/105374427/181636352-8c4601dd-a53a-4178-b351-2e2f8713fb84.png)
+![2](https://user-images.githubusercontent.com/105374427/181636353-b5542d29-4ff2-4c86-8a93-8ac19a6dd3c3.png)
+![3](https://user-images.githubusercontent.com/105374427/181636354-80a274aa-d6dc-456c-837a-ea3ca872e9b9.png)
+![4](https://user-images.githubusercontent.com/105374427/181636356-de775eaf-4feb-4b62-a258-e97deb0e22f5.png)
+![5](https://user-images.githubusercontent.com/105374427/181636357-c09c8d8a-62e7-4d12-8ef9-6c7781639dfb.png)
+![6](https://user-images.githubusercontent.com/105374427/181636358-1c8f1ea1-e917-44db-abaf-7d4e45903b28.png)
+![7](https://user-images.githubusercontent.com/105374427/181636361-d0dcce37-078a-4249-9ce9-f58158d8b10c.png)
+![8](https://user-images.githubusercontent.com/105374427/181636362-fe10ec45-1e7c-4da0-8759-cb9a6d136f2b.png)
+![9](https://user-images.githubusercontent.com/105374427/181636363-50f17ede-aaa0-4eac-94d6-32def03270fa.png)
+![10](https://user-images.githubusercontent.com/105374427/181636365-8e8e2b5c-b3fb-4fff-b543-b17f194bd90b.png)
+![11](https://user-images.githubusercontent.com/105374427/181636366-3b04cb1a-c129-4be0-af8c-51edf0941052.png)
+![12](https://user-images.githubusercontent.com/105374427/181636368-35d464ed-6edd-4b86-a618-7bfc6cdc67ed.png)
+![13](https://user-images.githubusercontent.com/105374427/181636369-cba50960-55a0-4618-96b5-5e97b29e21a4.png)
+![14](https://user-images.githubusercontent.com/105374427/181636371-299d2c27-51bf-48cb-82ea-11c3cf92e33e.png)
+
+
+
+
+
+
+
+
+
+
 CAPITULO 11 EJERCICIOS 2-16
 
 SECCIÓN 11–1 La forma de onda sinusoidal
