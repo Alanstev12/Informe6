@@ -1,6 +1,19 @@
 # Informe6
 
-MARCO TEORICO 
+# 1. OBJETIVOS
+
+1.1 Objetivo General 
+
+Comprender los conceptos básicos de circuitos electrónicos y emplearlos correctamente al realizar operaciones y análisis matemáticos. Asi como tambien aplicar principios indicados en los capitulos anteriores y utilizarlos para los diferentes claculos. 
+
+1.2 Objetivos Específicos
+  
+- Identificar un circuito resistivo en serie
+- Explicar por qué los valores de resistencia se suman cuando los resistores están conectados en serie
+- Encontrar el voltaje entre los extremos de cada resistor en serie
+- Identificar un circuito resistivo en paralelo
+- Explicar por qué el voltaje es el mismo a través de todos los resistores dispuestos en paralelo
+- Localizar fallas en circuitos en paralelo 
 
 
 
@@ -333,3 +346,9 @@ El periodo de una onda cuadrada es de 40 ms
 
 ![image](https://user-images.githubusercontent.com/105374427/179890481-5e407ca9-942e-4e78-b0be-12f4eb2b707f.png)
 
+CONCLUSIONES
+Con referencia a los circuitos serie - paralelo se tiene que para realizar un análisis correcto se debe primero identificar y diferenciar las partes del circuito que se encuentran en paralelo y las que se encuentran en serie, posterior a esto se puede aplicar los conocimientos antes adquiridos para calcule la resistencia, corriente y voltaje totales. Por otro lado para analizar los divisores de voltaje se debe de tener en cuenta , que estos producen un voltaje de salida que su valor surgió de la forma en que los empleemos, en otras palabras determinar si el divisor es bipolar o se basa en la corriente de carga y la corriente remanente.
+Las conversiones de fuente dentro de los circuitos son de dos tipos, el primero la conversión de una fuente de voltaje en una fuente de corriente, en este caso se deberá dividir el voltaje de la fuente entre la resistencia interna de la fuente que por lo general es igual a cero. El segundo tipo es la conversión de una fuente de corriente en una fuente de voltaje, en este caso la corriente de la fuente se debe multiplicar por la resistencia interna de la fuente, que es la mayoría de los casos se le considera infinita.
+El teorema de superposición para el análisis de circuitos serie - paralelo es efectivo porque permite reducir un circuito grande en una más simple, con esto se facilita el análisis del circuito y se puede implementar cualquier método conocido anteriormente para poder calcular la intensidad de corriente, el voltaje total del circuito y la resistencia total. Cabe recalcar que aquí implementamos las conversiones de fuentes para poder reducir en circuito, también el divisor de corriente en la mayoría de los casos y se calculan las resistencias equivalentes aplicando las fórmulas de resistencia total para circuitos tanto en serie como en paralelo.
+BIBLIOGRAFÍA
+Floyd, T. (2007). Principios de circuitos electricos. México: Pearson.
