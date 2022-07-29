@@ -346,9 +346,13 @@ El periodo de una onda cuadrada es de 40 ms
 
 ![image](https://user-images.githubusercontent.com/105374427/179890481-5e407ca9-942e-4e78-b0be-12f4eb2b707f.png)
 
-CONCLUSIONES
-Con referencia a los circuitos serie - paralelo se tiene que para realizar un análisis correcto se debe primero identificar y diferenciar las partes del circuito que se encuentran en paralelo y las que se encuentran en serie, posterior a esto se puede aplicar los conocimientos antes adquiridos para calcule la resistencia, corriente y voltaje totales. Por otro lado para analizar los divisores de voltaje se debe de tener en cuenta , que estos producen un voltaje de salida que su valor surgió de la forma en que los empleemos, en otras palabras determinar si el divisor es bipolar o se basa en la corriente de carga y la corriente remanente.
-Las conversiones de fuente dentro de los circuitos son de dos tipos, el primero la conversión de una fuente de voltaje en una fuente de corriente, en este caso se deberá dividir el voltaje de la fuente entre la resistencia interna de la fuente que por lo general es igual a cero. El segundo tipo es la conversión de una fuente de corriente en una fuente de voltaje, en este caso la corriente de la fuente se debe multiplicar por la resistencia interna de la fuente, que es la mayoría de los casos se le considera infinita.
-El teorema de superposición para el análisis de circuitos serie - paralelo es efectivo porque permite reducir un circuito grande en una más simple, con esto se facilita el análisis del circuito y se puede implementar cualquier método conocido anteriormente para poder calcular la intensidad de corriente, el voltaje total del circuito y la resistencia total. Cabe recalcar que aquí implementamos las conversiones de fuentes para poder reducir en circuito, también el divisor de corriente en la mayoría de los casos y se calculan las resistencias equivalentes aplicando las fórmulas de resistencia total para circuitos tanto en serie como en paralelo.
-BIBLIOGRAFÍA
-Floyd, T. (2007). Principios de circuitos electricos. México: Pearson.
+5. CONCLUSIONES
+
+La onda sinusoidal representa el valor de la tensión de la Corriente alterna a través de un tiempo continuamente variable, en un par de ejes cartesianos marcados en amplitud y tiempo, mientras que la onda no sinusoidal es cualquier forma de onda que difiera de la descripción básica de la forma de onda senoidal.
+
+Las formulas para la onda seno, tienen relacion directa con: angulo, periodo, frecuencia, valor pico, valor pico a pico, valor RMS y valor promedio, con estas formulas se obtiene el voltaje y corriente.
+
+Los fasores obtuvieron un método gráfico para representar cantidades que tienen tanto magnitud como dirección (posición angular).
+
+6. BIBLIOGRAFÍA
+Floyd, TL, Salas, RN, González, LMO y López, GP (2007). Principios de circuitos electricos. Pearson Educación.
